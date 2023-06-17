@@ -1,0 +1,8 @@
+site_name: Pediawiki
+site_url: https://pbone3.github.io/
+repo_url: https://github.com/Pbone3/pbone3.github.io/
+site_author: pbone
+remote_branch: main
+
+nav:
+  - test.md
